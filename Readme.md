@@ -2,9 +2,9 @@
 **Play here**:
 https://surbhi-mahajan.github.io/keep-alive/
 
-Use **right** arrow key  and **left** arrow key to rotate device nodes clockwise and anticlockwise.
+Use **right** arrow key  and **left** arrow key to rotate device nodes either in clockwise or anticlockwise direction.
 
-JavaScript/HTML5 Canvas Game. The mission is to protect the router from hitting the obstacles to keep the connection alive.
+JavaScript/HTML5 Canvas Game. The mission is to protect the router (circular nodes) from hitting the obstacles (rectangular blocks) to keep the connection alive.
 
 **Requirements**
 

@@ -7,6 +7,7 @@ let leftPressed = false;
 let totalLevels = 3
 
 console.log('abc-def')
+console.log('Hello world')
 
 function render() {
     ctx.clearRect(0, 0, keepAliveCanvas.width, keepAliveCanvas.height);

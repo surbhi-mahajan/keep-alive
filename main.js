@@ -7,6 +7,7 @@ let leftPressed = false;
 let totalLevels = 3
 
 console.log('total levels')
+console.log('total levels')
 
 function render() {
     ctx.clearRect(0, 0, keepAliveCanvas.width, keepAliveCanvas.height);
